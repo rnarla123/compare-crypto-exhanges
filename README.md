@@ -38,6 +38,7 @@ Run Project:
 $ npm start
 ```
 
+
 Are there any sub-optimal choices( or short cuts taken due to limited time ) in your implementation?
 
 The structure of the front end could have been better, since currently everything exists in two files. I also chose not to implement a database since we didn't require user management or any posting of data to the backend.
