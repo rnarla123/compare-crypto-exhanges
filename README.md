@@ -26,6 +26,12 @@ $ flask run
 
 ## React - Frontend
 
+Navigate to my-app
+Have npm cli installed with homebrew:
+```bash
+$ brew install npm
+```
+
 Install required dependencies:
 
 ```bash
